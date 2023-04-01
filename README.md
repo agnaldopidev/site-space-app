@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Firebase-Firestore" title="#Firebase-Firestore" src=".images/header.png" width="100%" />
-</h1>
-
 <h4 align="center"> 
 	SpaceApp
 </h4>
@@ -16,13 +12,7 @@
 
 O SpaceApp é uma aplicação feita em React Native que permite aos usuários entusiastas sobre astronomia salvarem fotos e informações sobre o espaço. Nessa aplicação foi integrado o Firebase Cloud Storage para que os usuários possam cadastrar vários posts sobre coisas de astrônima em nuvem.
 
-Esse projeto é utilizado na formação Firebase de React Native da plataforma da Alura.
-
-
-<h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".images/demo.gif" width="400px" />
-</h1>
-
+Esse projeto é utilizado na formação Firebase de React Native da plataforma da alura
 
 ## :rocket: Tecnologias
 
