@@ -2,8 +2,6 @@
     <img alt="Firebase-Firestore" title="#Firebase-Firestore" src=".images/header.png" width="100%" />
 </h1>
 
-<!-- https://alura-github-thumbnail-generator.vercel.app/ -->
-
 <h4 align="center"> 
 	SpaceApp
 </h4>
@@ -42,10 +40,10 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-firebase-storage.git
+$ git clone https://github.com/agnaldopidev/site-space-app.git
 
 # Vá para o ropositório
-$ cd react-native-firebase-storage
+$ cd site-space-app
 
 # Instale as dependências
 $ npm install
@@ -60,7 +58,7 @@ $ npx expo start
 
 
 
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
+Esse projeto foi contruido pelo curso do alura cursos do professor [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
